@@ -1,0 +1,14 @@
+# binaries
+myapp
+*.exe
+
+# test and coverage output
+*.test
+*.out
+
+# local config and secrets
+.env
+
+# editor files
+.idea/
+.vscode/
